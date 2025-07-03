@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name='game_puzzle_Bulls_and_Cows',
-    version='0.1.0',
-    description='A simple validator for Bulls and Cows game input',
-    author='Your Name',
-    author_email='your.email@example.com',
+    version='0.1.1',
+    description="game: puzzle: Bulls_and_Cows",
+    author='IK-dev',
+    author_email='my.secret.email@example.com',
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
