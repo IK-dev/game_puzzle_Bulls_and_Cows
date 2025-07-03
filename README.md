@@ -1,6 +1,6 @@
 # game_puzzle_Bulls_and_Cows
 
-A simple Python package for validating input strings in the "Bulls and Cows" puzzle game.
+A simple Python package for validating input strings in the "Bulls and Cows" puzzle game with GitHub Actions.
 
 ## Installation
 
