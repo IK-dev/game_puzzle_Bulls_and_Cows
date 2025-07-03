@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main  # Змінити, якщо деплой потрібен з іншої гілки
+  workflow_dispatch:  # Додає можливість ручного запуску
 
 jobs:
   build-and-publish:
